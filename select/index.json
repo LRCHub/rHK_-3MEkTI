@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ロケット団よ永遠に",
+  "base_artist": "RocketDan",
+  "createdAt": "2026-03-29T23:31:23.940720Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ロケット団よ永遠に",
+      "artist": "ロケット団",
+      "has_synced": true,
+      "path": "select/01_ロケット団よ永遠に_ロケット団.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ロケット団よ永遠に",
+      "artist": "ロケット団",
+      "has_synced": false,
+      "path": "select/pl_01_ロケット団よ永遠に_ロケット団.txt"
+    }
+  ]
+}
